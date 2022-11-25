@@ -4,4 +4,8 @@
 
 <h2>NestJS and AWS communication</h2>
 * CloudWatch Logs
-* ...
+
+<h2>Install</h2>
+* run `yarn install`
+* run `npm run start`
+* use Postman API calls
